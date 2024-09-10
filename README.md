@@ -1,4 +1,4 @@
-## Здравейте, Hello, Hola, Bonjour, Hallo, Ciao, こんにちは, 你好, مرحبا, 안녕하세요 👋
+## Здравейте, Hello, Hej, こんにちは👋
 I am a dedicated front-end developer with a strong background in graphic design. I am committed to continuous learning and adapting to new technologies and methodologies. This flexibility allows me to take on diverse programming roles and contribute effectively across different areas of development.
 
 Some of the projects I've been working on recently:
