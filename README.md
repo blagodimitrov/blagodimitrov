@@ -1,4 +1,4 @@
-# Здравейте, Hello, Hej, こんにちは👋
+![Github Greet-01](https://github.com/user-attachments/assets/c87a309d-9ef4-4760-adee-5c1ab590ebef)
 
 ## Welcome to My GitHub Profile
 
