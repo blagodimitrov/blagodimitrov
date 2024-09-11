@@ -14,7 +14,6 @@ I am a **dedicated front-end developer** with a strong background in **graphic d
 
 - **[Blago's Recipes](https://github.com/blagodimitrov/cms/tree/feature/first-assignment)**  
   _Practicing CMS with Contentful and Next.js_  
-  *Deployments available*
 
 ---
 
@@ -29,8 +28,8 @@ I am a **dedicated front-end developer** with a strong background in **graphic d
 ### 🎨 **Designer Skills:**
 
 - **Adobe Suite:** Illustrator, Photoshop, After Effects, InDesign, Premiere Pro
-- **UX/UI Tools:** Figma, Wireframing, Prototyping, CorelDRAW
-- **Specialties:** UX & UI, PrePress
+- **Other Tools:** Figma, CorelDRAW
+- **Specialties:** UX & UI, PrePress, Wireframing, Prototyping
 
 📸 **Check out my designs on [Instagram](https://www.instagram.com/blagodesigns/).**
 
@@ -54,6 +53,6 @@ To become a **Full-Stack Developer** who:
 
 ### 🚀 **Next Frontier:**
 
-I'm diving into **AI development** to push the boundaries of what's possible in tech.
+I'm going to dive into **AI development** to push the boundaries of what's possible in tech.
 
 📧 **Let's Connect!** Reach out to me on [LinkedIn](https://www.linkedin.com/in/blagovestdimitrov/).
