@@ -1,28 +1,59 @@
-## Здравейте, Hello, Hej, こんにちは👋
-I am a dedicated front-end developer with a strong background in graphic design. I am committed to continuous learning and adapting to new technologies and methodologies. This flexibility allows me to take on diverse programming roles and contribute effectively across different areas of development.
+# Здравейте, Hello, Hej, こんにちは👋
 
-Some of the projects I've been working on recently:
+## Welcome to My GitHub Profile
 
-CalProt (React State Management with Typescript) https://github.com/blagodimitrov/CalProt
-Habito (DOM Manipulation - Javascript) https://github.com/blagodimitrov/habito
-Blago's Recipes (Practicing CMS with Contentful and Next.JS) https://github.com/blagodimitrov/cms/tree/feature/first-assignment
-*deployments available*
+I am a **dedicated front-end developer** with a strong background in **graphic design**. My passion for **continuous learning** and adaptability to new technologies allow me to contribute effectively across different areas of development.
 
-Technical Skills:
-React.js, Next.js, Javascript, Typescript, CSS, Node.js, PHP,  HTML5, Git, GitHub, MongoDB, Bootstrap 5, Tailwind CSS, SASS, Docker, Express.js, Lodash, Contentful, Vercel
+### 🚀 **Current Projects:**
 
-Designer Skills:
-Adobe Illustrator, Photoshop, After Effects, InDesign, Premiere Pro, Figma, Wireframing, Prototyping, CorelDRAW, UX & UI, PrePress
+- **[CalProt](https://github.com/blagodimitrov/CalProt)**  
+  _React State Management with TypeScript_
 
-You can check out my designs here: Instagram: https://www.instagram.com/blagodesigns/
-You can contact me directly on my LinkedIn: https://www.linkedin.com/in/blagovestdimitrov/
+- **[Habito](https://github.com/blagodimitrov/habito)**  
+  _DOM Manipulation - JavaScript_
 
-I love learning languages (not programming languages), it's always great fun. It's great to challange myself and learn. 
+- **[Blago's Recipes](https://github.com/blagodimitrov/cms/tree/feature/first-assignment)**  
+  _Practicing CMS with Contentful and Next.js_  
+  *Deployments available*
 
-My goal is to be a Full-Stack Developer who:
-Crafts elegant and efficient code
-Implements robust design patterns
-Creates seamless user experiences
-Is up to date with the latest tech
+---
 
-Next frontier: Diving into AI development to push the boundaries of what's possible in tech.
+### 🛠 **Technical Skills:**
+
+- **Front-End:** React.js, Next.js, JavaScript, TypeScript, CSS, HTML5
+- **Back-End:** Node.js, PHP, MongoDB
+- **DevOps:** Docker, Git, GitHub, Vercel
+- **Styling:** Bootstrap 5, Tailwind CSS, SASS
+- **Other Tools:** Lodash, Express.js, Contentful
+
+### 🎨 **Designer Skills:**
+
+- **Adobe Suite:** Illustrator, Photoshop, After Effects, InDesign, Premiere Pro
+- **UX/UI Tools:** Figma, Wireframing, Prototyping, CorelDRAW
+- **Specialties:** UX & UI, PrePress
+
+📸 **Check out my designs on [Instagram](https://www.instagram.com/blagodesigns/).**
+
+---
+
+### 💬 **Languages:**
+
+I love learning languages (not just programming languages), and it's always a fun challenge for me! 🌍
+
+---
+
+### 🎯 **My Goal:**
+
+To become a **Full-Stack Developer** who:
+- Crafts elegant and efficient code
+- Implements robust design patterns
+- Creates seamless user experiences
+- Stays up to date with the latest tech
+
+---
+
+### 🚀 **Next Frontier:**
+
+I'm diving into **AI development** to push the boundaries of what's possible in tech.
+
+📧 **Let's Connect!** Reach out to me on [LinkedIn](https://www.linkedin.com/in/blagovestdimitrov/).
