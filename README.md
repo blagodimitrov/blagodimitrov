@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Profile
 
-I am a **dedicated front-end developer** with a strong background in **graphic design**. My passion for **continuous learning** and adaptability to new technologies allow me to contribute effectively across different areas of development.
+I am a **dedicated full-stack developer** with a strong background in **graphic design**. My passion for **continuous learning** and adaptability to new technologies allow me to contribute effectively across different areas of development.
 
 ### 🚀 **Current Projects:**
 
@@ -20,7 +20,7 @@ I am a **dedicated front-end developer** with a strong background in **graphic d
 ### 🛠 **Technical Skills:**
 
 - **Front-End:** React.js, Next.js, JavaScript, TypeScript, CSS, HTML5
-- **Back-End:** Node.js, PHP, MongoDB
+- **Back-End:** Node.js, PHP, MongoDB, MySQL
 - **DevOps:** Docker, Git, GitHub, Vercel
 - **Styling:** Bootstrap 5, Tailwind CSS, SASS
 - **Other Tools:** Lodash, Express.js, Contentful
