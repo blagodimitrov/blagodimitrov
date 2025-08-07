@@ -20,7 +20,7 @@ I am a **dedicated full-stack developer** with a strong background in **graphic 
 ### 🛠 **Technical Skills:**
 
 - **Front-End:** React.js, Next.js, JavaScript, TypeScript, CSS, HTML5
-- **Back-End:** Node.js, PHP, MongoDB, MySQL, Laminas, Symphony`
+- **Back-End:** Node.js, PHP, MongoDB, MySQL, Laminas, Symphony
 - **DevOps:** Docker, Git, GitHub, GitLab, Vercel
 - **Styling:** Bootstrap 5, Tailwind CSS, SASS
 - **Other Tools:** Lodash, Express.js, Contentful, Sulu
