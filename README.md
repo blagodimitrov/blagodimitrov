@@ -20,10 +20,10 @@ I am a **dedicated full-stack developer** with a strong background in **graphic 
 ### 🛠 **Technical Skills:**
 
 - **Front-End:** React.js, Next.js, JavaScript, TypeScript, CSS, HTML5
-- **Back-End:** Node.js, PHP, MongoDB, MySQL
-- **DevOps:** Docker, Git, GitHub, Vercel
+- **Back-End:** Node.js, PHP, MongoDB, MySQL, Laminas, Symphony`
+- **DevOps:** Docker, Git, GitHub, GitLab, Vercel
 - **Styling:** Bootstrap 5, Tailwind CSS, SASS
-- **Other Tools:** Lodash, Express.js, Contentful
+- **Other Tools:** Lodash, Express.js, Contentful, Sulu
 
 ### 🎨 **Designer Skills:**
 
@@ -31,7 +31,7 @@ I am a **dedicated full-stack developer** with a strong background in **graphic 
 - **Other Tools:** Figma, CorelDRAW
 - **Specialties:** UX & UI, PrePress, Wireframing, Prototyping
 
-📸 **Check out my designs on [Instagram](https://www.instagram.com/blagodesigns/).**
+📸 **Check out my designs on [Instagram](https://www.instagram.com/blagodimitrov_10/).**
 
 ---
 
