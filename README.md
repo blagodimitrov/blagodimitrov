@@ -72,7 +72,7 @@ Leveraging **graphic design expertise** to bridge the gap between design and dev
 
 - **🇬🇧 English:** Fluent
 - **🇧🇬 Bulgarian:** Native  
-- **🇩🇰 Danish:** A2/B1 (actively learning for Denmark relocation)
+- **🇩🇰 Danish:** A2/B1 (actively learning)
 
 ---
 
